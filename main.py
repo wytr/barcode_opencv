@@ -16,7 +16,7 @@ colors_cycle = cycle(colors)
 
 use_auto_rotation = False
 
-FILEPATH = 'reel_17.jpg'
+FILEPATH = 'barcodetest_2.jpg'
 plt.rcParams['figure.figsize'] = [15, 15]
 
 
